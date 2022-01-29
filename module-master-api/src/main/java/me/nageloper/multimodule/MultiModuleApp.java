@@ -1,13 +1,12 @@
-package me.angeloper.multimoudle;
+package me.nageloper.multimodule;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MultiMoudleApplication {
+public class MultiModuleApp {
 
     public static void main(String[] args) {
-        SpringApplication.run(MultiMoudleApplication.class, args);
+        SpringApplication.run(MultiModuleApp.class, args);
     }
-
 }

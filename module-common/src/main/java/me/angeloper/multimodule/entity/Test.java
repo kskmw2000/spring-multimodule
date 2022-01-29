@@ -1,4 +1,4 @@
-package me.angeloper.multimoudle.entity;
+package me.angeloper.multimodule.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

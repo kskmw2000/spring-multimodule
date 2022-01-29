@@ -1,1 +1,4 @@
 rootProject.name = 'multi-moudle'
+include 'module-common'
+include 'module-master-api'
+
